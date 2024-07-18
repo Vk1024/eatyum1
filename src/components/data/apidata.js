@@ -96,16 +96,16 @@ export const mealData = [
     {
         id: 13,
         title: 'healthy-salad',
-        category: 'egg',
+        category: 'Salad',
         price: 'Rs 120',
         imageUrl: img12,
     },
     {
         id: 14,
-        title: 'Paneer-pizza',
-        category: 'pizza',
-        price: 'Rs 450',
-        imageUrl: img5,
+        title: 'Bread-Egg Breakfast',
+        category: 'egg',
+        price: 'Rs 80',
+        imageUrl: img14,
     },
     {
         id: 15,
@@ -192,3 +192,21 @@ export const mealData = [
         imageUrl: img5,
     },
 ];
+
+
+export const Categorys =[
+    {
+        id: 27,
+        title: 'Paneer-pizza',
+        category: 'pizza',
+        price: 'Rs 450',
+        imageUrl: img5,
+    },
+    {
+        id: 28,
+        title: 'Paneer-pizza',
+        category: 'pizza',
+        price: 'Rs 450',
+        imageUrl: img5,
+    },
+]
